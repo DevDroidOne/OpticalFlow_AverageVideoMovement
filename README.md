@@ -11,12 +11,12 @@ As seen everything is written in python and not in the most efficient manner but
  - Scipy
  - Math
  
- # Beavior
+# Behavior
  
- When starting the program the program will shearch or a camera connected to the system make sure U have the nessasary librarys installd with PIP and the newest version of python
- When the video is running certian points will be chosen to be tracked marked by the red dots and the blue boxes around it is the size of kernal used.
+ When starting the program will search or a camera connected to the system make sure U have the necessary libraries installed with PIP and the newest version of python
+ When the video is running certain points will be chosen to be tracked marked by the red dots and the blue boxes around it is the size of kernel used.
  
-The point right in the middel of the video is the average estimated movement of the video. The optical flow method used is the luckas kanade method. 
+The point right in the middle of the video is the average estimated movement of the video. The optical flow method used is the luckas kanade method. 
 
 
 
